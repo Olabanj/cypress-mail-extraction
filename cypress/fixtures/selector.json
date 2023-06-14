@@ -1,0 +1,16 @@
+
+    {
+        "clickBtn1": "button[class='sc-ftTHYK djAXpA']",
+        "firstName": "#fullname",
+        "busName": "#businessname",
+        "busEmail": "#businessemail",
+        "busPhone": "#businessphonenumber",
+        "proceedBtn": "button[type='button']",
+        "enterWebsite": "#website",
+        "selDropdown": ".sc-eDWCr.kNYZsb",
+        "selInstagram": "div[class='sc-ksBlkl fcCVVx'] div:nth-child(5)",
+        "passwordField": "input[type='password']",
+        "nextButton": "button[type='submit']",
+        "otpField": "input"
+      }
+      
